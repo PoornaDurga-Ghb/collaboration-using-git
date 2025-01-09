@@ -1,4 +1,12 @@
 This is my local text file.
+<<<<<<< HEAD
+this is the modified code
+i want to raise conflict
+=======
 this is the modified code.
 thank u for modifying this code
+<<<<<<< HEAD
 again modifying
+=======
+>>>>>>> 1b25556b7c6ac3e634107818b0b0ad5525afc75d
+>>>>>>> 5f3a671492e4b8302fc95a8dd4bcf39f5d89388a
